@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# React
+build/
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
