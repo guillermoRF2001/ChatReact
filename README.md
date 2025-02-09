@@ -16,6 +16,8 @@ Creacion de tabla:
 para cargar correctamente los archivos haga npm install tanto en la carpeta server como en la chat-react
 y a la hora de inicializar los dos archivos estos se hacen con npm start y se recomienda iniciar primero el server.
 
+Tambien recuerde tener El xampp inicializado sino sera imposible conectarse al MySQL
+
 
 despues al iniciar la pagina le pedira un nombre y room
 en el noombre ponga el que usted quiera pero en room tiene que recordar poner el mismo tanto en un chat como el otro
