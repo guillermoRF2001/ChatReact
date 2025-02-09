@@ -8,3 +8,6 @@ CREATE TABLE chats (
     numRoom VARCHAR(255) NOT NULL UNIQUE,    -- Número o nombre de la sala, debe ser único
     mensajes JSON NOT NULL                   -- Historial de mensajes almacenado en formato JSON
 );
+
+para cargar correctamente los archivos haga npm install tanto en la carpeta server como en la chat-react
+y a la hora de inicializar los dos archivos estos se hacen con npm start y se recomienda iniciar primero el server.
