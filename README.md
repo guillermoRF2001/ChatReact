@@ -20,3 +20,13 @@ en el noombre ponga el que usted quiera pero en room tiene que recordar poner el
 o sino creara otra room distinta.
 
 ![image](https://github.com/user-attachments/assets/4f54c5f9-bf2e-4ac2-a4c6-246e3af7c739)
+![image](https://github.com/user-attachments/assets/c7489f05-3f61-45ba-b37a-490df2df6498)
+![image](https://github.com/user-attachments/assets/f0a2dfea-77f4-4636-a42e-e2627a84473e)
+
+Si elige otro solamente podra comunicarse si otra persona entra en un room con su mismo numero de rrom
+
+![image](https://github.com/user-attachments/assets/a7f1a908-a24d-4e4b-a509-7212d812aaea)
+![image](https://github.com/user-attachments/assets/85da3408-2caf-439a-a80e-f5e223ed0e58)
+
+
+
