@@ -10,10 +10,11 @@ const UlMensajes = styled.ul`
 `;
 
 const LiMensaje = styled.li`
-    background-color: lightblue;
-    border: 2px solid dodgerblue;
+    background-color: ${(props) => (props.isOwnMessage ? 'red' : 'lightblue')};
+    border: 2px solid ${(props) => (props.isOwnMessage ? 'darkred' : 'dodgerblue')};
     padding: 10px 20px;
-`
+    color: ${(props) => (props.isOwnMessage ? 'white' : 'black')};
+`;
 
 export {
     UlMensajes, LiMensaje
