@@ -10,6 +10,8 @@ Creacion de tabla:
         mensajes JSON NOT NULL                   -- Historial de mensajes almacenado en formato JSON
     );
 
+![image](https://github.com/user-attachments/assets/f4f6165c-1229-4782-8031-8489d2ddc922)
+
 
 para cargar correctamente los archivos haga npm install tanto en la carpeta server como en la chat-react
 y a la hora de inicializar los dos archivos estos se hacen con npm start y se recomienda iniciar primero el server.
@@ -21,7 +23,8 @@ o sino creara otra room distinta.
 
 ![image](https://github.com/user-attachments/assets/4f54c5f9-bf2e-4ac2-a4c6-246e3af7c739)
 ![image](https://github.com/user-attachments/assets/c7489f05-3f61-45ba-b37a-490df2df6498)
-![image](https://github.com/user-attachments/assets/f0a2dfea-77f4-4636-a42e-e2627a84473e)
+![image](https://github.com/user-attachments/assets/24fb77a5-ef18-47f7-8bbc-0a54579b46e2)
+
 
 Si elige otro solamente podra comunicarse si otra persona entra en un room con su mismo numero de rrom
 
